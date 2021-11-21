@@ -20,7 +20,7 @@ class Test_001_Login_Test:
         self.login.clickLogin()
         act_title = self.driver.title
 
-        if act_title=="Free and open-source eCommerce platform. ASP.NET based shopping cart. - ":
+        if act_title=="Free and open-source eCommerce platform. ASP.NET based shopping cart. - nopCommerce":
             self.driver.close()
             assert True
 
