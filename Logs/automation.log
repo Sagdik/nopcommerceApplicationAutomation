@@ -1,0 +1,10 @@
+11/22/2021 12:30:38: INFO: 
+
+11/22/2021 12:30:38: INFO: ====== WebDriver manager ======
+11/22/2021 12:30:38: INFO: Current google-chrome version is 95.0.4638
+11/22/2021 12:30:38: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/22/2021 12:30:38: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/22/2021 12:30:40: INFO: ******Test Login Page ******
+11/22/2021 12:30:40: INFO: ****Verfiy Login Page*****
+11/22/2021 12:30:50: INFO: ****Verifying the title after login
+11/22/2021 12:30:50: INFO: Successfully verfiied
