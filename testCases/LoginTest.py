@@ -8,7 +8,7 @@ class Test_001_Login_Test:
 
     baseUrl = "https://www.nopcommerce.com/en/login?returnUrl=%2Fen"
     userName = "sanutiwari7@gmail.com"
-    password = "992153"
+    password = ""
 
     def test_loginPage(self,setup):
         self.driver = setup
@@ -19,5 +19,12 @@ class Test_001_Login_Test:
         self.login.setPassword(self.password)
         self.login.clickLogin()
         act_title = self.driver.title
-        print(act_title)
-        self.driver.close()
+
+        if act_title=="Free and open-source eCommerce platform. ASP.NET based shopping cart. - ":
+            self.driver.close()
+            assert True
+
+        else:
+            self.driver.save_screenshot(".\\screenshots\\"+"LoginPageTest.png")
+            self.driver.close()
+            assert False
