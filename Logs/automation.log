@@ -1,10 +1,60 @@
-11/22/2021 12:30:38: INFO: 
+11/22/2021 08:58:55 PM: INFO: 
 
-11/22/2021 12:30:38: INFO: ====== WebDriver manager ======
-11/22/2021 12:30:38: INFO: Current google-chrome version is 95.0.4638
-11/22/2021 12:30:38: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
-11/22/2021 12:30:38: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-11/22/2021 12:30:40: INFO: ******Test Login Page ******
-11/22/2021 12:30:40: INFO: ****Verfiy Login Page*****
-11/22/2021 12:30:50: INFO: ****Verifying the title after login
-11/22/2021 12:30:50: INFO: Successfully verfiied
+11/22/2021 08:58:55 PM: INFO: ====== WebDriver manager ======
+11/22/2021 08:58:55 PM: INFO: Current google-chrome version is 95.0.4638
+11/22/2021 08:58:55 PM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/22/2021 08:58:55 PM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/22/2021 08:58:58 PM: INFO: ******Test Login Page ******
+11/22/2021 08:58:58 PM: INFO: ****Verfiy Login Page*****
+11/22/2021 08:58:58 PM: INFO: ****Launch Browser*****
+11/22/2021 08:59:05 PM: INFO: ****Enter the url *****
+11/22/2021 08:59:08 PM: INFO: ****Verifying the title after login
+11/22/2021 08:59:09 PM: INFO: Successfully verfiied
+11/22/2021 09:03:41 PM: INFO: 
+
+11/22/2021 09:03:41 PM: INFO: ====== WebDriver manager ======
+11/22/2021 09:03:41 PM: INFO: Current google-chrome version is 95.0.4638
+11/22/2021 09:03:41 PM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/22/2021 09:03:41 PM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/22/2021 09:03:44 PM: INFO: ******Test Login Page ******
+11/22/2021 09:03:44 PM: INFO: ****Verfiy Login Page*****
+11/22/2021 09:03:44 PM: INFO: ****Launch Browser*****
+11/22/2021 09:03:49 PM: INFO: ****Enter the url *****
+11/22/2021 09:03:52 PM: INFO: ****Verifying the title after login
+11/22/2021 09:03:57 PM: INFO: Successfully verfiied
+11/22/2021 09:03:57 PM: INFO: 
+
+11/22/2021 09:03:57 PM: INFO: ====== WebDriver manager ======
+11/22/2021 09:03:57 PM: INFO: Current google-chrome version is 95.0.4638
+11/22/2021 09:03:57 PM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/22/2021 09:03:57 PM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/22/2021 09:03:58 PM: INFO: ******Test Login Page ******
+11/22/2021 09:03:58 PM: INFO: ****Verfiy Login Page*****
+11/22/2021 09:03:59 PM: INFO: ****Launch Browser*****
+11/22/2021 09:04:04 PM: INFO: ****Enter the url *****
+11/22/2021 09:04:07 PM: INFO: ****Verifying the title after login
+11/22/2021 09:04:07 PM: ERROR: ***Verfication failed***
+11/22/2021 09:05:38 PM: INFO: 
+
+11/22/2021 09:05:38 PM: INFO: ====== WebDriver manager ======
+11/22/2021 09:05:38 PM: INFO: Current google-chrome version is 95.0.4638
+11/22/2021 09:05:38 PM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/22/2021 09:05:38 PM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/22/2021 09:05:41 PM: INFO: ******Test Login Page ******
+11/22/2021 09:05:41 PM: INFO: ****Verfiy Login Page*****
+11/22/2021 09:05:41 PM: INFO: ****Launch Browser*****
+11/22/2021 09:05:45 PM: INFO: ****Enter the url *****
+11/22/2021 09:05:48 PM: INFO: ****Verifying the title after login
+11/22/2021 09:05:49 PM: INFO: Successfully verfiied
+11/22/2021 09:05:49 PM: INFO: 
+
+11/22/2021 09:05:49 PM: INFO: ====== WebDriver manager ======
+11/22/2021 09:05:49 PM: INFO: Current google-chrome version is 95.0.4638
+11/22/2021 09:05:49 PM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/22/2021 09:05:49 PM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/22/2021 09:05:51 PM: INFO: ******Test Login Page ******
+11/22/2021 09:05:51 PM: INFO: ****Verfiy Login Page*****
+11/22/2021 09:05:51 PM: INFO: ****Launch Browser*****
+11/22/2021 09:05:56 PM: INFO: ****Enter the url *****
+11/22/2021 09:05:58 PM: INFO: ****Verifying the title after login
+11/22/2021 09:05:58 PM: INFO: Successfully verified
