@@ -58,3 +58,441 @@
 11/22/2021 09:05:56 PM: INFO: ****Enter the url *****
 11/22/2021 09:05:58 PM: INFO: ****Verifying the title after login
 11/22/2021 09:05:58 PM: INFO: Successfully verified
+11/25/2021 09:52:27 AM: INFO: 
+
+11/25/2021 09:52:27 AM: INFO: ====== WebDriver manager ======
+11/25/2021 09:52:27 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 09:52:27 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 09:52:28 AM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/95.0.4638.69/chromedriver_win32.zip
+11/25/2021 09:52:30 AM: INFO: Driver has been saved in cache [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69]
+11/25/2021 09:52:34 AM: INFO: ******Test Login Page ******
+11/25/2021 09:52:34 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 09:52:34 AM: INFO: ****Launch Browser*****
+11/25/2021 09:52:38 AM: INFO: ****Enter the url *****
+11/25/2021 09:52:47 AM: INFO: ****Verifying the title after login
+11/25/2021 09:57:22 AM: INFO: 
+
+11/25/2021 09:57:22 AM: INFO: ====== WebDriver manager ======
+11/25/2021 09:57:22 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 09:57:22 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 09:57:23 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 09:57:26 AM: INFO: ******Test Login Page ******
+11/25/2021 09:57:26 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 09:57:26 AM: INFO: ****Launch Browser*****
+11/25/2021 09:57:30 AM: INFO: ****Enter the url *****
+11/25/2021 09:57:44 AM: INFO: ****Verifying the title after login
+11/25/2021 09:59:41 AM: INFO: 
+
+11/25/2021 09:59:41 AM: INFO: ====== WebDriver manager ======
+11/25/2021 09:59:41 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 09:59:41 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 09:59:41 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 09:59:44 AM: INFO: ******Test Login Page ******
+11/25/2021 09:59:44 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 09:59:44 AM: INFO: ****Launch Browser*****
+11/25/2021 09:59:48 AM: INFO: ****Enter the url *****
+11/25/2021 10:00:02 AM: INFO: ****Verifying the title after login
+11/25/2021 10:00:02 AM: INFO: Successfully verfied
+11/25/2021 10:02:42 AM: INFO: 
+
+11/25/2021 10:02:42 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:02:43 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:02:43 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:02:43 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:02:45 AM: INFO: ******Test Login Page ******
+11/25/2021 10:02:45 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:02:45 AM: INFO: ****Launch Browser*****
+11/25/2021 10:02:49 AM: INFO: ****Enter the url *****
+11/25/2021 10:03:03 AM: INFO: ****Verifying the title after login
+11/25/2021 10:03:03 AM: INFO: Successfully verfied
+11/25/2021 10:04:39 AM: INFO: 
+
+11/25/2021 10:04:39 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:04:39 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:04:39 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:04:39 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:04:42 AM: INFO: ******Test Login Page ******
+11/25/2021 10:04:42 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:04:42 AM: INFO: ****Launch Browser*****
+11/25/2021 10:04:47 AM: INFO: ****Enter the url *****
+11/25/2021 10:05:01 AM: INFO: ****Verifying the title after login
+11/25/2021 10:05:01 AM: INFO: Successfully verfied
+11/25/2021 10:09:39 AM: INFO: 
+
+11/25/2021 10:09:39 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:09:39 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:09:39 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:09:39 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:09:42 AM: INFO: ******Test Login Page ******
+11/25/2021 10:09:42 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:09:42 AM: INFO: ****Launch Browser*****
+11/25/2021 10:09:46 AM: INFO: ****Enter the url *****
+11/25/2021 10:10:00 AM: INFO: ****Verifying the title after login
+11/25/2021 10:10:00 AM: INFO: Successfully verfied
+11/25/2021 10:12:09 AM: INFO: 
+
+11/25/2021 10:12:09 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:12:09 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:12:09 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:12:09 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:12:12 AM: INFO: ******Test Login Page ******
+11/25/2021 10:12:12 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:12:12 AM: INFO: ****Launch Browser*****
+11/25/2021 10:12:16 AM: INFO: ****Enter the url *****
+11/25/2021 10:12:31 AM: INFO: ****Verifying the title after login
+11/25/2021 10:12:31 AM: INFO: Successfully verfied
+11/25/2021 10:18:23 AM: INFO: 
+
+11/25/2021 10:18:23 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:18:23 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:18:23 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:18:23 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:18:25 AM: INFO: ******Test Login Page ******
+11/25/2021 10:18:25 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:18:25 AM: INFO: ****Launch Browser*****
+11/25/2021 10:18:30 AM: INFO: ****Enter the url *****
+11/25/2021 10:18:43 AM: INFO: ****Verifying the title after login
+11/25/2021 10:18:43 AM: INFO: Successfully verfied
+11/25/2021 10:19:33 AM: INFO: 
+
+11/25/2021 10:19:33 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:19:33 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:19:33 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:19:33 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:19:35 AM: INFO: ******Test Login Page ******
+11/25/2021 10:19:35 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:19:35 AM: INFO: ****Launch Browser*****
+11/25/2021 10:19:40 AM: INFO: ****Enter the url *****
+11/25/2021 10:19:55 AM: INFO: ****Verifying the title after login
+11/25/2021 10:19:55 AM: INFO: Successfully verfied
+11/25/2021 10:29:06 AM: INFO: 
+
+11/25/2021 10:29:06 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:29:06 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:29:06 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:29:06 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:29:09 AM: INFO: ******Test Login Page ******
+11/25/2021 10:29:09 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:29:09 AM: INFO: ****Launch Browser*****
+11/25/2021 10:29:14 AM: INFO: ****Enter the url *****
+11/25/2021 10:29:23 AM: INFO: ****Verifying the title after login
+11/25/2021 10:29:23 AM: INFO: Successfully verfied
+11/25/2021 10:30:03 AM: INFO: 
+
+11/25/2021 10:30:03 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:30:03 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:30:03 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:30:03 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:30:05 AM: INFO: ******Test Login Page ******
+11/25/2021 10:30:05 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:30:06 AM: INFO: ****Launch Browser*****
+11/25/2021 10:30:11 AM: INFO: ****Enter the url *****
+11/25/2021 10:30:13 AM: INFO: ****Verifying the title after login
+11/25/2021 10:30:14 AM: ERROR: ***Verfication failed***
+11/25/2021 10:30:14 AM: INFO: 
+
+11/25/2021 10:30:14 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:30:14 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:30:14 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:30:14 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:30:16 AM: INFO: ******Test Login Page ******
+11/25/2021 10:30:16 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:30:16 AM: INFO: ****Launch Browser*****
+11/25/2021 10:30:21 AM: INFO: ****Enter the url *****
+11/25/2021 10:30:23 AM: INFO: ****Verifying the title after login
+11/25/2021 10:30:23 AM: INFO: Successfully verified
+11/25/2021 10:33:41 AM: INFO: ******Test Login Page ******
+11/25/2021 10:33:41 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:33:42 AM: INFO: ****Launch Browser*****
+11/25/2021 10:33:47 AM: INFO: ****Enter the url *****
+11/25/2021 10:33:56 AM: INFO: ****Verifying the title after login
+11/25/2021 10:33:56 AM: INFO: Successfully verfied
+11/25/2021 10:35:12 AM: INFO: ******Test Login Page ******
+11/25/2021 10:35:12 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:35:12 AM: INFO: ****Launch Browser*****
+11/25/2021 10:35:17 AM: INFO: ****Enter the url *****
+11/25/2021 10:35:51 AM: INFO: ******Test Login Page ******
+11/25/2021 10:35:51 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:35:52 AM: INFO: ****Launch Browser*****
+11/25/2021 10:35:56 AM: INFO: ****Enter the url *****
+11/25/2021 10:38:33 AM: INFO: ******Test Login Page ******
+11/25/2021 10:38:33 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:38:33 AM: INFO: ****Launch Browser*****
+11/25/2021 10:38:37 AM: INFO: ****Enter the url *****
+11/25/2021 10:39:55 AM: INFO: ******Test Login Page ******
+11/25/2021 10:39:55 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:39:55 AM: INFO: ****Launch Browser*****
+11/25/2021 10:40:00 AM: INFO: ****Enter the url *****
+11/25/2021 10:40:24 AM: INFO: ******Test Login Page ******
+11/25/2021 10:40:24 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:40:24 AM: INFO: ****Launch Browser*****
+11/25/2021 10:40:28 AM: INFO: ****Enter the url *****
+11/25/2021 10:42:26 AM: INFO: ******Test Login Page ******
+11/25/2021 10:42:26 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:42:26 AM: INFO: ****Launch Browser*****
+11/25/2021 10:42:31 AM: INFO: ****Enter the url *****
+11/25/2021 10:43:10 AM: INFO: ******Test Login Page ******
+11/25/2021 10:43:10 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:43:10 AM: INFO: ****Launch Browser*****
+11/25/2021 10:43:14 AM: INFO: ****Enter the url *****
+11/25/2021 10:43:54 AM: INFO: ******Test Login Page ******
+11/25/2021 10:43:54 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:43:54 AM: INFO: ****Launch Browser*****
+11/25/2021 10:43:59 AM: INFO: ****Enter the url *****
+11/25/2021 10:45:04 AM: INFO: ******Test Login Page ******
+11/25/2021 10:45:04 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:45:04 AM: INFO: ****Launch Browser*****
+11/25/2021 10:45:08 AM: INFO: ****Enter the url *****
+11/25/2021 10:47:33 AM: INFO: ******Test Login Page ******
+11/25/2021 10:47:33 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:47:34 AM: INFO: ****Launch Browser*****
+11/25/2021 10:47:39 AM: INFO: ****Enter the url *****
+11/25/2021 10:50:11 AM: INFO: 
+
+11/25/2021 10:50:11 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:50:11 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:50:11 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:50:11 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:50:14 AM: INFO: ******Test Login Page ******
+11/25/2021 10:50:14 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:50:14 AM: INFO: ****Launch Browser*****
+11/25/2021 10:50:19 AM: INFO: ****Enter the url *****
+11/25/2021 10:50:24 AM: INFO: ****Verifying the title after login
+11/25/2021 10:50:25 AM: ERROR: ***Verfication failed***
+11/25/2021 10:50:25 AM: INFO: 
+
+11/25/2021 10:50:25 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:50:25 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:50:25 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:50:25 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:50:27 AM: INFO: ******Test Login Page ******
+11/25/2021 10:50:27 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:50:27 AM: INFO: ****Launch Browser*****
+11/25/2021 10:50:32 AM: INFO: ****Enter the url *****
+11/25/2021 10:50:37 AM: INFO: ****Verifying the title after login
+11/25/2021 10:50:37 AM: INFO: Successfully verified
+11/25/2021 10:59:00 AM: INFO: 
+
+11/25/2021 10:59:00 AM: INFO: ====== WebDriver manager ======
+11/25/2021 10:59:01 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 10:59:01 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 10:59:01 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 10:59:04 AM: INFO: ******Test Login Page ******
+11/25/2021 10:59:04 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 10:59:04 AM: INFO: ****Launch Browser*****
+11/25/2021 10:59:08 AM: INFO: ****Enter the url *****
+11/25/2021 11:00:45 AM: INFO: 
+
+11/25/2021 11:00:45 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:00:45 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 11:00:45 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 11:00:45 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 11:00:47 AM: INFO: ******Test Login Page ******
+11/25/2021 11:00:47 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:00:47 AM: INFO: ****Launch Browser*****
+11/25/2021 11:00:52 AM: INFO: ****Enter the url *****
+11/25/2021 11:02:17 AM: INFO: 
+
+11/25/2021 11:02:17 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:02:17 AM: INFO: Current google-chrome version is 95.0.4638
+11/25/2021 11:02:17 AM: INFO: Get LATEST chromedriver version for 95.0.4638 google-chrome
+11/25/2021 11:02:17 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+11/25/2021 11:02:20 AM: INFO: ******Test Login Page ******
+11/25/2021 11:02:20 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:02:20 AM: INFO: ****Launch Browser*****
+11/25/2021 11:02:25 AM: INFO: ****Enter the url *****
+11/25/2021 11:06:21 AM: INFO: 
+
+11/25/2021 11:06:21 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:06:21 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:06:21 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:06:22 AM: INFO: There is no [win32] chromedriver for browser  in cache
+11/25/2021 11:06:22 AM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/96.0.4664.45/chromedriver_win32.zip
+11/25/2021 11:06:24 AM: INFO: Driver has been saved in cache [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45]
+11/25/2021 11:06:28 AM: INFO: ******Test Login Page ******
+11/25/2021 11:06:28 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:06:28 AM: INFO: ****Launch Browser*****
+11/25/2021 11:06:33 AM: INFO: ****Enter the url *****
+11/25/2021 11:07:26 AM: INFO: 
+
+11/25/2021 11:07:26 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:07:26 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:07:26 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:07:26 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:07:29 AM: INFO: ******Test Login Page ******
+11/25/2021 11:07:29 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:07:29 AM: INFO: ****Launch Browser*****
+11/25/2021 11:07:34 AM: INFO: ****Enter the url *****
+11/25/2021 11:07:48 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0412B190>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b56bf3fbe5095f665f66db3a0963e88d/element
+11/25/2021 11:07:50 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0417C1A8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b56bf3fbe5095f665f66db3a0963e88d/element
+11/25/2021 11:07:52 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0417C880>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/b56bf3fbe5095f665f66db3a0963e88d/element
+11/25/2021 11:18:35 AM: INFO: 
+
+11/25/2021 11:18:35 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:18:35 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:18:35 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:18:35 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:18:38 AM: INFO: ******Test Login Page ******
+11/25/2021 11:18:38 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:18:38 AM: INFO: ****Launch Browser*****
+11/25/2021 11:18:42 AM: INFO: ****Enter the url *****
+11/25/2021 11:18:54 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x047360D0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/aa3b2a587d0d0f89e3eb47870a5d6e17/element
+11/25/2021 11:18:56 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04736F70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/aa3b2a587d0d0f89e3eb47870a5d6e17/element
+11/25/2021 11:18:58 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04736F28>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/aa3b2a587d0d0f89e3eb47870a5d6e17/element
+11/25/2021 11:19:06 AM: INFO: 
+
+11/25/2021 11:19:06 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:19:06 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:19:06 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:19:06 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:19:09 AM: INFO: ******Test Login Page ******
+11/25/2021 11:19:09 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:19:09 AM: INFO: ****Launch Browser*****
+11/25/2021 11:19:13 AM: INFO: ****Enter the url *****
+11/25/2021 11:19:18 AM: INFO: ****Verifying the title after login
+11/25/2021 11:19:18 AM: ERROR: ***Verfication failed***
+11/25/2021 11:19:18 AM: INFO: 
+
+11/25/2021 11:19:18 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:19:18 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:19:18 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:19:18 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:19:20 AM: INFO: ******Test Login Page ******
+11/25/2021 11:19:20 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:19:20 AM: INFO: ****Launch Browser*****
+11/25/2021 11:19:25 AM: INFO: ****Enter the url *****
+11/25/2021 11:19:29 AM: INFO: ****Verifying the title after login
+11/25/2021 11:19:29 AM: INFO: Successfully verified
+11/25/2021 11:21:42 AM: INFO: ******Test Login Page ******
+11/25/2021 11:21:42 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:21:42 AM: INFO: ****Launch Browser*****
+11/25/2021 11:21:45 AM: INFO: ****Enter the url *****
+11/25/2021 11:21:57 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x048A12B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e8f75127-8713-48ac-b704-35a4c997a047/element
+11/25/2021 11:21:59 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04881FA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e8f75127-8713-48ac-b704-35a4c997a047/element
+11/25/2021 11:22:01 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04881CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/e8f75127-8713-48ac-b704-35a4c997a047/element
+11/25/2021 11:22:12 AM: INFO: 
+
+11/25/2021 11:22:12 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:22:12 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:22:12 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:22:13 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:22:15 AM: INFO: ******Test Login Page ******
+11/25/2021 11:22:15 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:22:15 AM: INFO: ****Launch Browser*****
+11/25/2021 11:22:19 AM: INFO: ****Enter the url *****
+11/25/2021 11:22:26 AM: INFO: ****Verifying the title after login
+11/25/2021 11:22:26 AM: INFO: Successfully verfiied
+11/25/2021 11:22:26 AM: INFO: 
+
+11/25/2021 11:22:26 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:22:27 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:22:27 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:22:27 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:22:28 AM: INFO: ******Test Login Page ******
+11/25/2021 11:22:28 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:22:28 AM: INFO: ****Launch Browser*****
+11/25/2021 11:22:33 AM: INFO: ****Enter the url *****
+11/25/2021 11:22:38 AM: INFO: ****Verifying the title after login
+11/25/2021 11:22:38 AM: INFO: Successfully verified
+11/25/2021 11:24:30 AM: INFO: 
+
+11/25/2021 11:24:30 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:24:30 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:24:30 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:24:30 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:24:33 AM: INFO: ******Test Login Page ******
+11/25/2021 11:24:33 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:24:33 AM: INFO: ****Launch Browser*****
+11/25/2021 11:24:37 AM: INFO: ****Enter the url *****
+11/25/2021 11:24:54 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x043E41A8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b158d533d550c6d23cccdc1f6678682/title
+11/25/2021 11:24:56 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x043E4940>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b158d533d550c6d23cccdc1f6678682/title
+11/25/2021 11:24:58 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0442F250>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/8b158d533d550c6d23cccdc1f6678682/title
+11/25/2021 11:27:23 AM: INFO: 
+
+11/25/2021 11:27:23 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:27:23 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:27:23 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:27:23 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:27:25 AM: INFO: ******Test Login Page ******
+11/25/2021 11:27:25 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:27:25 AM: INFO: ****Launch Browser*****
+11/25/2021 11:27:30 AM: INFO: ****Enter the url *****
+11/25/2021 11:27:46 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04A770B8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/441b9316fa2209bf58e3d1504ce27f9e/title
+11/25/2021 11:27:48 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04A77508>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/441b9316fa2209bf58e3d1504ce27f9e/title
+11/25/2021 11:27:51 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x04A772F8>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/441b9316fa2209bf58e3d1504ce27f9e/title
+11/25/2021 11:28:59 AM: INFO: 
+
+11/25/2021 11:28:59 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:28:59 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:28:59 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:28:59 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:29:01 AM: INFO: ******Test Login Page ******
+11/25/2021 11:29:01 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:29:01 AM: INFO: ****Launch Browser*****
+11/25/2021 11:29:06 AM: INFO: ****Enter the url *****
+11/25/2021 11:29:18 AM: INFO: ****Verifying the title after login
+11/25/2021 11:29:18 AM: INFO: Successfully verfied
+11/25/2021 11:37:43 AM: INFO: 
+
+11/25/2021 11:37:43 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:37:43 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:37:43 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:37:43 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:37:46 AM: INFO: ******Test Login Page ******
+11/25/2021 11:37:46 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:37:46 AM: INFO: ****Launch Browser*****
+11/25/2021 11:37:51 AM: INFO: ****Enter the url *****
+11/25/2021 11:38:02 AM: INFO: ****Verifying the title after login
+11/25/2021 11:38:02 AM: INFO: *****Successfully verfied******
+11/25/2021 11:45:42 AM: INFO: 
+
+11/25/2021 11:45:42 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:45:42 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:45:42 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:45:42 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:45:44 AM: INFO: ******Test Login Page ******
+11/25/2021 11:45:44 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:45:44 AM: INFO: ****Launch Browser*****
+11/25/2021 11:45:50 AM: INFO: ****Enter the url *****
+11/25/2021 11:46:25 AM: INFO: 
+
+11/25/2021 11:46:25 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:46:26 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:46:26 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:46:26 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:46:28 AM: INFO: ******Test Login Page ******
+11/25/2021 11:46:28 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:46:28 AM: INFO: ****Launch Browser*****
+11/25/2021 11:46:35 AM: INFO: ****Enter the url *****
+11/25/2021 11:47:59 AM: INFO: 
+
+11/25/2021 11:47:59 AM: INFO: ====== WebDriver manager ======
+11/25/2021 11:47:59 AM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 11:47:59 AM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 11:47:59 AM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 11:48:01 AM: INFO: ******Test Login Page ******
+11/25/2021 11:48:01 AM: INFO: ****Verfiy Login Page*****
+11/25/2021 11:48:01 AM: INFO: ****Launch Browser*****
+11/25/2021 11:48:07 AM: INFO: ****Enter the url *****
+11/25/2021 11:48:20 AM: INFO: ****Verifying the title after login
+11/25/2021 11:48:20 AM: INFO: *****Successfully verfied******
+11/25/2021 11:48:33 AM: INFO: ****Verifying the title after login
+11/25/2021 11:48:44 AM: INFO: ****Verifying the title after login
+11/25/2021 11:48:55 AM: INFO: ****Verifying the title after login
+11/25/2021 11:48:55 AM: INFO: ************login DDT test Passed***********
+11/25/2021 02:14:05 PM: INFO: 
+
+11/25/2021 02:14:05 PM: INFO: ====== WebDriver manager ======
+11/25/2021 02:14:05 PM: INFO: Current google-chrome version is 96.0.4664
+11/25/2021 02:14:05 PM: INFO: Get LATEST chromedriver version for 96.0.4664 google-chrome
+11/25/2021 02:14:05 PM: INFO: Driver [C:\Users\Nirbhay\.wdm\drivers\chromedriver\win32\96.0.4664.45\chromedriver.exe] found in cache
+11/25/2021 02:14:08 PM: INFO: ******Test Login Page ******
+11/25/2021 02:14:08 PM: INFO: ****Verfiy Login Page*****
+11/25/2021 02:14:08 PM: INFO: ****Launch Browser*****
+11/25/2021 02:14:13 PM: INFO: ****Enter the url *****
+11/25/2021 02:14:25 PM: INFO: ****Verifying the title after login
+11/25/2021 02:14:25 PM: INFO: *****Successfully verfied******
+11/25/2021 02:14:39 PM: INFO: ****Verifying the title after login
+11/25/2021 02:14:50 PM: INFO: ****Verifying the title after login
+11/25/2021 02:15:02 PM: INFO: ****Verifying the title after login
+11/25/2021 02:15:02 PM: INFO: ************login DDT test Passed***********
